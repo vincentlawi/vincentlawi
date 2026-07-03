@@ -36,29 +36,28 @@ My biggest strength is **Figma**. I specialize in designing interfaces that are 
 
 # 🛠 Tech Stack
 
-### Design
+### 🎨 Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma"/>
-<img src="https://skillicons.dev/icons?i=photoshop"/>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop"/>
 </p>
 
-### Frontend
+### 💻 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite"/>
 </p>
 
-### Programming
+### 🐍 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
-### Tools
+### 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
